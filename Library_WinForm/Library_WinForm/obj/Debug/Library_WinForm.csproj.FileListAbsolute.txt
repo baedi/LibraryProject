@@ -1,0 +1,26 @@
+c:\users\eniro\source\repos\Library_WinForm\Library_WinForm\bin\Debug\Library_WinForm.exe.config
+c:\users\eniro\source\repos\Library_WinForm\Library_WinForm\bin\Debug\Library_WinForm.exe
+c:\users\eniro\source\repos\Library_WinForm\Library_WinForm\bin\Debug\Library_WinForm.pdb
+c:\users\eniro\source\repos\Library_WinForm\Library_WinForm\obj\Debug\Library_WinForm.csprojAssemblyReference.cache
+c:\users\eniro\source\repos\Library_WinForm\Library_WinForm\obj\Debug\Library_WinForm.MainForm.resources
+c:\users\eniro\source\repos\Library_WinForm\Library_WinForm\obj\Debug\Library_WinForm.Properties.Resources.resources
+c:\users\eniro\source\repos\Library_WinForm\Library_WinForm\obj\Debug\Library_WinForm.csproj.GenerateResource.cache
+c:\users\eniro\source\repos\Library_WinForm\Library_WinForm\obj\Debug\Library_WinForm.csproj.CoreCompileInputs.cache
+c:\users\eniro\source\repos\Library_WinForm\Library_WinForm\obj\Debug\Library_WinForm.exe
+c:\users\eniro\source\repos\Library_WinForm\Library_WinForm\obj\Debug\Library_WinForm.pdb
+C:\Users\RVLAB2\Documents\Visual Studio 2015\Projects\Library_WinForm\Library_WinForm\bin\Debug\Library_WinForm.exe.config
+C:\Users\RVLAB2\Documents\Visual Studio 2015\Projects\Library_WinForm\Library_WinForm\obj\Debug\Library_WinForm.exe
+C:\Users\RVLAB2\Documents\Visual Studio 2015\Projects\Library_WinForm\Library_WinForm\obj\Debug\Library_WinForm.pdb
+C:\Users\RVLAB2\Documents\Visual Studio 2015\Projects\Library_WinForm\Library_WinForm\bin\Debug\Library_WinForm.exe
+C:\Users\RVLAB2\Documents\Visual Studio 2015\Projects\Library_WinForm\Library_WinForm\bin\Debug\Library_WinForm.pdb
+C:\Users\RVLAB2\Documents\Visual Studio 2015\Projects\Library_WinForm\Library_WinForm\obj\Debug\Library_WinForm.MainForm.resources
+C:\Users\RVLAB2\Documents\Visual Studio 2015\Projects\Library_WinForm\Library_WinForm\obj\Debug\Library_WinForm.Properties.Resources.resources
+C:\Users\RVLAB2\Documents\Visual Studio 2015\Projects\Library_WinForm\Library_WinForm\obj\Debug\Library_WinForm.csproj.GenerateResource.Cache
+C:\Users\RVLAB2\Documents\Visual Studio 2015\Projects\Library_WinForm\Library_WinForm\bin\Debug\MySql.Data.dll
+C:\Users\RVLAB2\Documents\Visual Studio 2015\Projects\Library_WinForm\Library_WinForm\bin\Debug\Google.Protobuf.dll
+C:\Users\RVLAB2\Documents\Visual Studio 2015\Projects\Library_WinForm\Library_WinForm\bin\Debug\MySql.Data.xml
+C:\Users\RVLAB2\Documents\Visual Studio 2015\Projects\Library_WinForm\Library_WinForm\obj\Debug\Library_WinForm.Login.resources
+C:\Users\RVLAB2\Documents\Visual Studio 2015\Projects\Library_WinForm\Library_WinForm\obj\Debug\Library_WinForm.Register.resources
+C:\Users\RVLAB2\Documents\Visual Studio 2015\Projects\Library_WinForm\Library_WinForm\obj\Debug\Library_WinForm.LibraryCommon.resources
+C:\Users\RVLAB2\Documents\Visual Studio 2015\Projects\Library_WinForm\Library_WinForm\obj\Debug\Library_WinForm.Log.resources
+C:\Users\RVLAB2\Documents\Visual Studio 2015\Projects\Library_WinForm\Library_WinForm\obj\Debug\Library_WinForm.Blacklist.resources
